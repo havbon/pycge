@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
   long_description = fh.read()
 
 setuptools.setup(
-    name="python-colored-game-engine-havbon",
+    name="pycge",
     version="0.1.1",
     author="Håvard Bønes",
     author_email="haavard.bones@gmail.com",
